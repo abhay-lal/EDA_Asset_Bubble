@@ -1,6 +1,7 @@
 # EDA_Asset_Bubble
-InfoViz-Project</br>
-[![Alt text](https://img.youtube.com/vi/lfyqsMxN85o/0.jpg)](https://www.youtube.com/watch?v=lfyqsMxN85o)
+## VIDEO
+https://user-images.githubusercontent.com/74143500/232194799-0acda87e-1fae-4f1c-9252-617f38ee8c7d.mp4
+
 ## Contributors
 <table>
 <tr align="center">
